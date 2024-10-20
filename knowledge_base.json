@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the capital of Alemanha",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "Qual musica ideal para quem esta triste?",
+      "answer": "Lofi"
+    },
+    {
+      "question": "oi",
+      "answer": "Oi, tudo bem?"
+    },
+    {
+      "question": "tudo sim e voc\u00ea",
+      "answer": "Estou bem, tambem como posso ajuda-lo?"
+    },
+    {
+      "question": "& C:/Python312/python.exe c:/Users/vitor/ProjetoBM/main.py",
+      "answer": "cls"
+    },
+    {
+      "question": "buscar musica",
+      "answer": "Claro, qual musica voc\u00ea precisa?"
+    },
+    {
+      "question": "quero a musica do toosie slide do drake",
+      "answer": "Ok, vou buscar esta musica agora mesmo!"
+    },
+    {
+      "question": "achou?",
+      "answer": "N\u00e3o consegui achar sua musica, me desculpe"
+    },
+    {
+      "question": "quero artista",
+      "answer": "Claro, qual artista?"
+    },
+    {
+      "question": "toosie slide",
+      "answer": "Me desculpe, mas n\u00e3o consegui achar a musica de sua preferencia"
+    },
+    {
+      "question": "Como voc\u00ea esta?",
+      "answer": "Estou bem e voc\u00ea?"
+    },
+    {
+      "question": "estou bem",
+      "answer": "que bom, como posso ajuda-lo"
+    }
+  ]
+}

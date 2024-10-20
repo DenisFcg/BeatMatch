@@ -1,0 +1,115 @@
+*{
+  background-color: #373737;
+  overflow-y: hidden;
+}
+@font-face {
+  font-family: 'The SeasonsN';
+  src: url('../fonts/TheSeasonsN.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'The Seasons';
+  src: url('../fonts/TheSeasons.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'The Seasons', Arial, sans-serif;
+}
+
+.nav-bar-header{
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  background-color: transparent;
+  margin: 50px 500px 0px;
+}
+.background-header{
+  border-radius: 60px;
+  position: absolute;
+  left: 5%;
+  bottom: 86%;
+  width: 90%;
+  opacity: 80%;
+  
+}
+.background-footer{
+  border-radius: 60px;
+  position: absolute;
+  left: 5%;
+  top: 95%;
+  width: 90%;
+  opacity: 80%;
+  
+}
+.content-left{
+  margin: 70px 100px;
+  text-align: center;
+}
+.content-right{
+  margin: 70px 200px;
+  text-align: center;
+}
+.main-content{
+  justify-content: space-around;
+  color: #fff;
+  text-align: center;
+}
+#text-nav{
+  background-color: transparent;
+}
+#link-text{
+  background-color: transparent;
+  text-decoration: none;
+  color: #fff;
+}
+#divisor{
+  width: 80%;
+  max-width: 360;
+  border: 1px solid;
+  border-color: #fff;
+  position: relative;
+  margin: 10px 0px 0px 185px;
+  opacity: 80%;
+}
+#divisor-01{
+  width: 10%;
+  max-width: 360;
+  border: 1px solid;
+  border-color: #fff;
+  position: absolute;
+  top: 200px;
+  left: 140px;
+
+}
+#divisor-02{
+  width: 10%;
+  max-width: 360;
+  border: 1px solid;
+  border-color: #fff;
+  position: absolute;
+  top: 200px;
+  left: 610px;
+}
+#divisor-03{
+  width: 8%;
+  max-width: 360;
+  border: 1px solid;
+  border-color: #fff;
+  position: absolute;
+  top: 200px;
+  right: 620px;
+
+}
+#divisor-04{
+  width: 8%;
+  max-width: 360;
+  border: 1px solid;
+  border-color: #fff;
+  position: absolute;
+  top: 200px;
+  right: 150px;
+}
